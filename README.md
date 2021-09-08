@@ -1,6 +1,10 @@
-# flutter_job_search
+# Job Search App
 
-A new Flutter project.
+My New Flutter Project Job Search App
+
+Still Prototype App
+
+![alt text](https://i.ibb.co/pxxx3rM/Frame-1.png)
 
 ## Getting Started
 
